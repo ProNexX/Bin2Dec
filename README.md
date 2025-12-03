@@ -45,14 +45,3 @@ Enter a binary number up to 8 digits: q
 Notes:
 - The program allows up to 8 binary digits (0/1). Any input longer than 8 characters or containing characters other than 0/1 triggers an error message and prompts again.
 - Input `q` quits the program.
-
-## 🛠 Suggestions & improvements
-
-- Consider adding unit tests for conversion logic.
-- Improve user messages (there's a small typo: 'quite' -> 'quit') and make the bit-length configurable.
-
-## 📄 License
-This repository doesn't contain a license file. If you want to open-source it, consider adding a LICENSE (for example MIT) and updating this section.
-
----
-If you'd like, I can add a small test project, fix the typo in `Program.cs`, or add CI instructions — tell me which you'd prefer next.
